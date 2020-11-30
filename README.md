@@ -8,3 +8,5 @@ pip install -r requirements.txt
 Зайти в папку с проектом, проверить работоспособность (запускаемость) встроенного сервера:
 
 python manage.py runserver
+
+далее перейти по ссылке http://127.0.0.1:8000/book/?format=json
